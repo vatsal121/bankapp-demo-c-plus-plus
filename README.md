@@ -14,9 +14,10 @@ Create a prototype of a program that simulates a bank. More precisely, the progr
     8. Display the total balance value of the accounts.
     9. Exit the application.
 
-You must implement each of these functionalities.
-
 # Remarks:
     • The maximum number of accounts for this application is 100 accounts.
     • All input must be validated.
     • Each task out of the various functionalities should be delegated to an appropriate function.
+
+# More Details
+-Download and open the 'Practical project Banking system.docx' file. 
