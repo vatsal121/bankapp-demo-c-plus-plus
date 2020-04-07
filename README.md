@@ -2,7 +2,7 @@
 Bank Application Demo in .NET Console Application using C++ using File handling to store data.
 
 # Description:
-# Create a prototype of a program that simulates a bank. More precisely, the program should be able to store the family name and given name of a client, their unique account number (a number between 10000 and 10099), and the balance of their account.
+Create a prototype of a program that simulates a bank. More precisely, the program should be able to store the family name and given name of a client, their unique account number (a number between 10000 and 10099), and the balance of their account.
 # The program should display a menu with the following options:
     1. Add a bank account.
     2. Remove a bank account. (optional)
