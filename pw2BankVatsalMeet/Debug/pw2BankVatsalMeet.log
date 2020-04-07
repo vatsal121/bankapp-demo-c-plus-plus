@@ -1,0 +1,7 @@
+﻿  BankingFunctions.cpp
+C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\pw2BankVatsalMeet\BankingFunctions.cpp(189,9): warning C4101: 'withdrawMoneyAmt': unreferenced local variable
+C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\pw2BankVatsalMeet\BankingFunctions.cpp(208,9): warning C4101: 'withdrawMoneyAmt': unreferenced local variable
+C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\pw2BankVatsalMeet\BankingFunctions.cpp(265,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\pw2BankVatsalMeet\BankingFunctions.cpp(273,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\pw2BankVatsalMeet\BankingFunctions.cpp(295,21): warning C4018: '<': signed/unsigned mismatch
+  pw2BankVatsalMeet.vcxproj -> C:\Users\vchauhan\Desktop\C++\FinalPracticalProject\pw2BankVatsalMeet\Debug\pw2BankVatsalMeet.exe
